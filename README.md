@@ -88,7 +88,7 @@ npm run android   # or npm run ios
 
 | Home Screen                                            | Ticket Screen                                               | Profile Screen                                               |
 | ------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Home](https://via.placeholder.com/200x400?text=Home) | ![Ticket](https://via.placeholder.com/200x400?text=Tickets) | ![Profile](https://via.placeholder.com/200x400?text=Profile) |
+| ![Home]([https://via.placeholder.com/200x400?text=Home](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Home%20Screen.jpg)) | ![Ticket]([https://via.placeholder.com/200x400?text=Tickets](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Ticket%20Screen.jpg)) | ![Profile]([https://via.placeholder.com/200x400?text=Profile](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Profil%20Screen.jpg)) |
 
 ---
 
