@@ -90,9 +90,9 @@ npm run android   # or npm run ios
 | ------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Home](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Home%20Screen.jpg) | ![Ticket](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Ticket%20Screen.jpg) | ![Profile](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Profil%20Screen.jpg) |
 
-| Start screen | Detail Amsterdam | Detail Labuan Bajo |
-| ------------------ | -------- | -------- |
-| ![Start screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Start%20Screen.jpg) | ![Detail Amsterdam](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Detail%20Screen%20Amsterdam.jpg) | ![Detail Labuan Bajo](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Detail%20Screen%20Labuan%20Bajo.jpg) |
+| Start screen | Detail Amsterdam | Detail Labuan Bajo | Detail Venexia |
+| ------------------ | -------- | -------- |-------- |
+| ![Start screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Start%20Screen.jpg) | ![Detail Amsterdam](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Detail%20Screen%20Amsterdam.jpg) | ![Detail Labuan Bajo](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Detail%20Screen%20Labuan%20Bajo.jpg) | ![Detail Venexia](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Detail%20Screen%20Venexia.jpg) |
 
 ---
 
