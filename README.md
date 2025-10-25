@@ -86,9 +86,9 @@ npm run android   # or npm run ios
 
 ## 📸 Screenshots (Preview)
 
-| Home Screen                                            | Ticket Screen                                               | Profile Screen                                               |
-| ------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Home](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Home%20Screen.jpg) | ![Ticket](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Ticket%20Screen.jpg) | ![Profile](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Profil%20Screen.jpg) |
+| Start screen                                            || Home Screen                                            | Ticket Screen                                               | Profile Screen                                               |
+| ------------------------------------------------------ || ------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Start screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Start%20Screen.jpg) || ![Home](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Home%20Screen.jpg) | ![Ticket](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Ticket%20Screen.jpg) | ![Profile](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Profil%20Screen.jpg) |
 
 | Start screen | Wishlist | Settings |
 | ------------------ | -------- | -------- |
