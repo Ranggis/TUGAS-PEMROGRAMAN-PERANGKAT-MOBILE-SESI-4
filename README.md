@@ -1,4 +1,4 @@
-# ✨ Travel App — Explore the World from Your Fingertips 🌍
+# Travel App — Explore the World from Your Fingertips
 
 A beautifully designed **React Native Travel Application** that lets users explore destinations, manage tickets, and customize profiles — all in one sleek, modern interface.
 
