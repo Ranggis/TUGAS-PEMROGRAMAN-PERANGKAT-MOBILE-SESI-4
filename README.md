@@ -90,6 +90,10 @@ npm run android   # or npm run ios
 | ------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Home](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Home%20Screen.jpg) | ![Ticket](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Ticket%20Screen.jpg) | ![Profile](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Profil%20Screen.jpg) |
 
+| Start screen | Wishlist | Settings |
+| ------------------ | -------- | -------- |
+| ![Start screen](https://github.com/Ranggis/TUGAS-PEMROGRAMAN-PERANGKAT-MOBILE-SESI-4/blob/main/Hasil%20Implementasi/Start%20Screen.jpg) | ![Wishlist](https://github.com/your-username/travel-app/assets/wishlist.png) | ![Settings](https://github.com/your-username/travel-app/assets/settings.png) |
+
 ---
 
 ## 💡 Future Enhancements
